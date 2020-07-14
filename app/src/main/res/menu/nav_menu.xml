@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profile_item"
+    android:title="Your Profile"/>
+    <item
+        android:id="@+id/homepage_item"
+        android:title="Homepage"/>
+    <item
+        android:id="@+id/requestpage_item"
+         android:title="Request Blood"/>
+    <item
+        android:id="@+id/donatepage_item"
+        android:title="Donate Blood"/>
+
+</menu>
